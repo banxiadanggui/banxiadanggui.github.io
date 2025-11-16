@@ -1,37 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>如何花第一桶金</title>
-    <url>/2025/09/03/ru-he-hua-di-yi-tong-jin/</url>
-    <content><![CDATA[第一桶金，八月给老师打工写代码的收获，虽然不多，但总之是自己劳动（使唤ai）换来的，以前父母的钱总是画着心里有门槛，这一笔钱是我可以完完全全心理上自由支配的，第一桶金对于一个青年的魅力
-总金额 3000
-开学买一些日用品-80牙刷之类的洗漱品，虽然家里的够用，但是在不够再去拿一趟了，得买！2920
-cs买点一直舍不得地饰品-48可燃冰 -92幽独 -29树魁 -10彩色 -4红苹果 -1.8焰色反应 -2.17书法
-买一把吉他？-21.8 洗面奶 -1318好看的电吉他 唐农 余1393.23
-买点衣服？-76.1 -79 -59  余1179.13剩下的钱投入股市之中
-]]></content>
-      <categories>
-        <category>diary</category>
-      </categories>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>开站记录新</title>
-    <url>/2025/08/26/kai-zhan-ji-lu-xin/</url>
-    <content><![CDATA[小小的记录以一次萌生建立一个个人网站的想法，还是在2系大佬diandian网站中翻找资源时，感叹他那漂亮的动画与壁纸，不知道耗费了多少精力，便把憧憬积攒起来，一攒就是一个学期。
-在暑假的末尾，终于游戏玩无可玩，刷无可刷的地步，在一个上午来到图书馆开始了尝试。庆幸在ai时代中，前人需要花费几个星期的努力，那些查找资料与信息耗费的时间被省了下来，一个下午，我的网站感觉已经初具雏形，有模有样了。
-新的开始朋友圈实在不想发，qq又用不顺手，也许这里可以作为我记录生活的一片避风港不过嘛，重要的不是骨架，而是内容的血肉，如果我之后荒废了写作与更新，那我半天的努力可就白费了，加油，域名申请这段时间可不能闲着
-]]></content>
-      <categories>
-        <category>diary</category>
-      </categories>
-      <tags>
-        <tag>日记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>丝之歌完结</title>
     <url>/2025/09/21/si-zhi-ge-wan-jie/</url>
     <content><![CDATA[丝之歌是一次痛并快乐着的旅程在数模结束后的那个晚上，我直接入手了丝之歌作为对自己的奖励，公平的说，丝之歌的确足够迷人。
@@ -220,14 +189,68 @@ xxmixgirl,Soft particles of fractal flames,focusing,color,(extreme details),lumi
       </tags>
   </entry>
   <entry>
-    <title>数模</title>
-    <url>/2025/10/14/shu-mo/</url>
-    <content><![CDATA[]]></content>
+    <title>如何花第一桶金</title>
+    <url>/2025/09/03/ru-he-hua-di-yi-tong-jin/</url>
+    <content><![CDATA[第一桶金，八月给老师打工写代码的收获，虽然不多，但总之是自己劳动（使唤ai）换来的，以前父母的钱总是画着心里有门槛，这一笔钱是我可以完完全全心理上自由支配的，第一桶金对于一个青年的魅力
+总金额 3000
+开学买一些日用品-80牙刷之类的洗漱品，虽然家里的够用，但是在不够再去拿一趟了，得买！2920
+cs买点一直舍不得地饰品-48可燃冰 -92幽独 -29树魁 -10彩色 -4红苹果 -1.8焰色反应 -2.17书法
+买一把吉他？-21.8 洗面奶 -1318好看的电吉他 唐农 余1393.23
+买点衣服？-76.1 -79 -59  余1179.13剩下的钱投入股市之中
+]]></content>
+      <categories>
+        <category>diary</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>操作流程</title>
+    <url>/2025/11/16/cao-zuo-liu-cheng/</url>
+    <content><![CDATA[操作流程  为了防止自己忘记而创建的操作流  1.新建文章  hexo new post 文章名
+
+编辑 source&#x2F;_posts&#x2F;我的新文章.md
+
+添加图片到 source&#x2F;_posts&#x2F;我的新文章&#x2F; 文件夹
+
+本地预览（可选）  hexo server
+
+清理、生成、部署  hexo clean &amp;&amp; hexo g &amp;&amp; hexo d
+
+
+]]></content>
+  </entry>
+  <entry>
+    <title>终止这场滚雪球吧</title>
+    <url>/2025/11/16/zhong-zhi-zhe-chang-gun-xue-qiu-ba/</url>
+    <content><![CDATA[作业越积累越多，甚至有一些遗留了一周以上，我需要梳理所有我错过的作业，看看一个周日是否能够完成。概率统计：已完成数电：第四章作业，verilog作业，小组任务信号处理：6.13,17,18,30，31，32模电：n个仿真，这周与上周的作业微波技术：三周的作业
+]]></content>
+      <categories>
+        <category>未整理</category>
+      </categories>
+      <tags>
+        <tag>未整理</tag>
+      </tags>
   </entry>
   <entry>
     <title></title>
     <url>/2025/10/14/shu-mo/shu-mo/</url>
     <content><![CDATA[数学建模比赛的1论文竟然被送到全国进行评奖了，好开心，我们做的时候就感觉到了一帆风顺，也许结果会出乎意料的好？
 ]]></content>
+  </entry>
+  <entry>
+    <title>开站记录新</title>
+    <url>/2025/08/26/kai-zhan-ji-lu-xin/</url>
+    <content><![CDATA[小小的记录以一次萌生建立一个个人网站的想法，还是在2系大佬diandian网站中翻找资源时，感叹他那漂亮的动画与壁纸，不知道耗费了多少精力，便把憧憬积攒起来，一攒就是一个学期。
+在暑假的末尾，终于游戏玩无可玩，刷无可刷的地步，在一个上午来到图书馆开始了尝试。庆幸在ai时代中，前人需要花费几个星期的努力，那些查找资料与信息耗费的时间被省了下来，一个下午，我的网站感觉已经初具雏形，有模有样了。
+新的开始朋友圈实在不想发，qq又用不顺手，也许这里可以作为我记录生活的一片避风港不过嘛，重要的不是骨架，而是内容的血肉，如果我之后荒废了写作与更新，那我半天的努力可就白费了，加油，域名申请这段时间可不能闲着
+]]></content>
+      <categories>
+        <category>diary</category>
+      </categories>
+      <tags>
+        <tag>日记</tag>
+      </tags>
   </entry>
 </search>

@@ -6,7 +6,7 @@
   <link href="https://banxiadanggui.github.io/atom.xml" rel="self"/>
   
   <link href="https://banxiadanggui.github.io/"/>
-  <updated>2025-10-14T11:20:57.514Z</updated>
+  <updated>2025-11-16T06:22:53.054Z</updated>
   <id>https://banxiadanggui.github.io/</id>
   
   <author>
@@ -15,6 +15,51 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>终止这场滚雪球吧</title>
+    <link href="https://banxiadanggui.github.io/2025/11/16/zhong-zhi-zhe-chang-gun-xue-qiu-ba/"/>
+    <id>https://banxiadanggui.github.io/2025/11/16/zhong-zhi-zhe-chang-gun-xue-qiu-ba/</id>
+    <published>2025-11-16T06:15:11.000Z</published>
+    <updated>2025-11-16T06:22:53.054Z</updated>
+    
+    <content type="html"><![CDATA[<p>作业越积累越多，甚至有一些遗留了一周以上，我需要梳理所有我错过的作业，看看一个周日是否能够完成。<br>概率统计：已完成<br>数电：第四章作业，verilog作业，小组任务<br>信号处理：6.13,17,18,30，31，32<br>模电：n个仿真，这周与上周的作业<br>微波技术：三周的作业</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;作业越积累越多，甚至有一些遗留了一周以上，我需要梳理所有我错过的作业，看看一个周日是否能够完成。&lt;br&gt;概率统计：已完成&lt;br&gt;数电：第四章作业，verilog作业，小组任务&lt;br&gt;信号处理：6.13,17,18,30，31，32&lt;br&gt;模电：n个仿真，这周与上周的作业&lt;b</summary>
+      
+    
+    
+    
+    <category term="未整理" scheme="https://banxiadanggui.github.io/categories/%E6%9C%AA%E6%95%B4%E7%90%86/"/>
+    
+    
+    <category term="未整理" scheme="https://banxiadanggui.github.io/tags/%E6%9C%AA%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>操作流程</title>
+    <link href="https://banxiadanggui.github.io/2025/11/16/cao-zuo-liu-cheng/"/>
+    <id>https://banxiadanggui.github.io/2025/11/16/cao-zuo-liu-cheng/</id>
+    <published>2025-11-16T06:10:55.000Z</published>
+    <updated>2025-11-16T06:14:09.983Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="操作流程"><a href="#操作流程" class="headerlink" title="操作流程"></a>操作流程</h1><p>  为了防止自己忘记而创建的操作流<br>  1.新建文章<br>  hexo new post 文章名</p><ol start="2"><li><p>编辑 source&#x2F;_posts&#x2F;我的新文章.md</p></li><li><p>添加图片到 source&#x2F;_posts&#x2F;我的新文章&#x2F; 文件夹</p></li><li><p>本地预览（可选）<br>  hexo server</p></li><li><p>清理、生成、部署<br>  hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;操作流程&quot;&gt;&lt;a href=&quot;#操作流程&quot; class=&quot;headerlink&quot; title=&quot;操作流程&quot;&gt;&lt;/a&gt;操作流程&lt;/h1&gt;&lt;p&gt;  为了防止自己忘记而创建的操作流&lt;br&gt;  1.新建文章&lt;br&gt;  hexo new post 文章名&lt;/p&gt;
+&lt;ol s</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
@@ -31,19 +76,6 @@
     <summary type="html">&lt;p&gt;数学建模比赛的1论文竟然被送到全国进行评奖了，好开心，我们做的时候就感觉到了一帆风顺，也许结果会出乎意料的好？&lt;/p&gt;
 </summary>
       
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>数模</title>
-    <link href="https://banxiadanggui.github.io/2025/10/14/shu-mo/"/>
-    <id>https://banxiadanggui.github.io/2025/10/14/shu-mo/</id>
-    <published>2025-10-14T11:19:43.000Z</published>
-    <updated>2025-10-14T11:19:43.237Z</updated>
-    
     
     
     
